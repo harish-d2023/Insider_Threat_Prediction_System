@@ -8,7 +8,8 @@ The project demonstrates how insider risk monitoring, event simulation, AI-based
 ## 📸 Screenshot
   
 ```
-screenshots/Screenshot 2025-11-22 214100.png
+![Dashboard Screenshot](screenshots/Screenshot%202025-11-22%20214100.png)
+
 ```
 
 ---
