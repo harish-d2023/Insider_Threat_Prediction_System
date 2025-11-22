@@ -5,15 +5,6 @@ The project demonstrates how insider risk monitoring, event simulation, AI-based
 
 ---
 
-## 📸 Screenshot
-  
-```
-![Dashboard Screenshot](screenshots/Screenshot%202025-11-22%20214100.png)
-
-```
-
----
-
 ## ✨ System Highlights
 
 | Area | Features |
