@@ -6,9 +6,9 @@ The project demonstrates how insider risk monitoring, event simulation, AI-based
 ---
 
 ## 📸 Screenshot
-> Replace this file with your project screenshot  
+  
 ```
-![Dashboard Screenshot](screenshots/dashboard.png)
+screenshots/Screenshot 2025-11-22 214100.png
 ```
 
 ---
